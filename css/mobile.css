@@ -1,0 +1,87 @@
+/* navbar */
+
+#navbar {
+    height: 180px;
+}
+
+#navbar-container {
+    flex-direction: column;
+    padding: 20px;
+}
+
+#navbar-items {
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+}
+
+#navbar-items li:nth-child(2) {
+border-top: 1px solid #333;
+border-bottom: 1px solid #333;
+}
+
+/* Showcase */
+
+#showcase-container {
+    padding: 40px;
+}
+
+#showcase-container h2 {
+    font-size: 2.1rem;
+}
+
+#showcase-container p {
+    font-size: 1.1rem;
+}
+
+
+/* clients */
+
+#clients-container {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+}
+
+.client {
+    width: 50%;
+}
+
+/* Features */
+
+#features-container {
+    grid-template-columns: 1fr;
+}
+
+#features-container .feature:nth-child(2) {
+    margin: 15px 0;
+}
+
+/* Product */
+
+#product-container {
+    flex-direction: column;
+}
+
+#items {
+    width: 90%;
+}
+
+/* Testimonials */
+
+.testimonial {
+    flex-direction: column;
+    text-align: center;
+}
+
+
+/* Gallery */
+
+#gallery-container {
+    grid-template-columns: 1fr;
+    justify-content: center;
+}
+
+.gallery-image {
+    width: 450px;
+    height: 300px;
+}
