@@ -1,5 +1,5 @@
 # TIActions_WebSite
-WebSite de empresa de TI fictícia, utilizei html, css e j query java script. 
+WebSite de empresa de TI fictícia, utilizei html, css e a blioteca de JavaScript Jquery, para adicionar efeitos de rolagem de tela ao click de bootões no menu. 
 <br>
 
 <h1>Preview</h1>
