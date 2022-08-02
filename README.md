@@ -10,45 +10,27 @@
 
 ## 📄 Explicação
 
-Explicação de como funciona o projeto, os components utilizados, ideia do projeto, etc...
+Neste projeto desenvolvi uma lading page para uma empresa fictícia do ramo de TI, nela aprendi muito sobre responsividade, display-grid e também a biblioteca jQuery do javascript.
 
 ## 🚀 Tecnologias
 
-- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 3](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 4](https://www.linkedin.com/in/raul-de-souza/)
-
-## 📡 API'𝘀 usadas na aplicação
-
-- (EMOJI) [Example 1](https://www.linkedin.com/in/raul-de-souza/)
-- (EMOJI) [Example 2](https://www.linkedin.com/in/raul-de-souza/)
+- [HTML5](https://pt.wikipedia.org/wiki/HTML5)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [jQuery](https://jquery.com/)
 
 ## 📚 Bibliotecas Usadas
 
-- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/)
 
 ## 📔 Conhecimentos Utilizados
 
+✅ Estruturação de diretórios\
 ✅ Uso semântico do HTML\
-✅ Integração com a API do TMDB ao usar o `fetch`
-
-## 📕 Como usar?
-
-Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
-
-```bash
-# Clone this project
-$ git clone LINK DO SEU REPOSITÓRIO
-# Access
-$ cd NOME DA SUA PASTA
-# Install dependencies
-$ yarn or npm
-# Run the project
-$ yarn start or npm start
-# The server will initialize in the <http://localhost:3000>
-```
+✅ Responsividade\
+✅ Efeitos dinâmicos ao scroll da página com jQuery\
+✅ Uso de display `flex` e `grid`\
 
 ## 🤝 Colaboradores
 
