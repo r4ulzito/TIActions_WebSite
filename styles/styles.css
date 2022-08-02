@@ -228,13 +228,13 @@ a {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 30px;
-  justify-items: center;
+  justify-content: center;
 }
 
 .gallery-image {
   display: inline-block;
-  width: 540px;
-  height: 360px;
+  width: 450px;
+  height: 260px;
   border-radius: 5px;
 }
 

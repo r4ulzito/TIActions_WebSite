@@ -6,7 +6,7 @@
 
 > 🔎 Lading page de uma empresa fictícia da área de TI
 
-🗔 Confira a aplicação: <br>
+🗔 Confira a aplicação: https://ti-actions-lp.netlify.app<br>
 
 ## 📄 Explicação
 
