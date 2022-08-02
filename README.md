@@ -1,7 +1,7 @@
 <h1 align="center">💻 TI ACTIONS LANDING PAGE</h1>
 
 <div align="center">
-  <img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
+  <img src="https://user-images.githubusercontent.com/97764322/182475270-6f1633d2-2975-4f1f-8b61-6f38760118a6.gif" alt="Descrição da imagem">
 </div>
 
 > 🔎 Lading page de uma empresa fictícia da área de TI
